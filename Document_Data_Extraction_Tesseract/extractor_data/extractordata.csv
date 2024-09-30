@@ -1,0 +1,12 @@
+FilePath;Recipient;Supplier;InvoiceDate;InvoiceNumber;TotalAmount;RecipientAddress;Tax
+../../../extractor_data/traindata/Invoice 1.png;Kunde;Fox GmbH;Sep 19, 2024;#1;192,00$;;20%
+../../../extractor_data/traindata/Invoice 2.png;Kunde;Fox GmbH;Sep 19, 2024;#2;136,56$;Musterstraﬂe 123;20%
+../../../extractor_data/traindata/invoice_1.png;Anna Beispiel;;;8970;EUR 578.74;Beispielweg 22, 54321 Beispielstadt;19%
+../../../extractor_data/traindata/invoice_2.png;Anna Beispiel;;;2615;EUR 386.82;Beispielweg 22, 54321 Beispielstadt;19%
+../../../extractor_data/traindata/invoice_3.png;Peter Test;;;1481;EUR 90.33;Teststraﬂe 9, 98765 Testhausen;19%
+../../../extractor_data/traindata/invoice_4.png;Anna Beispiel;;;6415;EUR 141.26;Beispielweg 22, 54321 Beispielstadt;19%
+../../../extractor_data/traindata/invoice_5.png;Anna Beispiel;;;2416;EUR 79.17;Beispielweg 22, 54321 Beispielstadt;19%
+../../../extractor_data/traindata/invoice_6.png;Max Mustermann;XYZ AG;6.5.2024;8537;EUR 1164.23;Musterstraﬂe 1, 12345 Musterstadt;19%
+../../../extractor_data/traindata/invoice_7.png;Laura Demo;Baumeister KG;19.2.2024;EUR 238.09;;
+../../../extractor_data/traindata/invoice_8.png;Peter Test;Baumeister KG;21.1.2024;EUR 511.62;Teststraﬂe 9, 98765 Testhausen;
+../../../extractor_data/traindata/invoice_9.png;Max Mustermann;XYZ AG;9.7.2024;EUR 1495.95;Musterstraﬂe 1, 12345 Musterstadt;
